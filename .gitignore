@@ -1,0 +1,20 @@
+# Ambiente virtual de Python
+venv/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Registros generados por la aplicación
+registro_predicciones.csv
+registro_prueba.csv
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración local de editores
+.vscode/
+.idea/
